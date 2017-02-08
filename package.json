@@ -1,0 +1,23 @@
+{
+  "name": "mocha-sandbox",
+  "version": "1.0.0",
+  "description": "Better test output for asynchronous tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennym/mocha-sandbox.git"
+  },
+  "author": "Leonard Martin <hello@lennym.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lennym/mocha-sandbox/issues"
+  },
+  "homepage": "https://github.com/lennym/mocha-sandbox#readme",
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-homeoffice": "^2.1.0"
+  }
+}
