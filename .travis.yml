@@ -5,6 +5,4 @@ node_js:
   - '7'
   - '8'
   - '9'
-before_install:
-  - 'if [[ `npm -v` != 3* ]]; then npm i -g npm@3; fi'
-  - npm cache clean
+  
